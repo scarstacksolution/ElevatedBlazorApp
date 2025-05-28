@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/olu/Documents/Code2025/BlazorApp/BlazorApp.csproj",
+      "projectUniqueName": "/Users/olu/Downloads/devops-git/BlazorApp/BlazorApp.csproj",
       "projectName": "BlazorApp",
-      "projectPath": "/Users/olu/Documents/Code2025/BlazorApp/BlazorApp.csproj",
+      "projectPath": "/Users/olu/Downloads/devops-git/BlazorApp/BlazorApp.csproj",
       "packagesPath": "/Users/olu/.nuget/packages/",
-      "outputPath": "/Users/olu/Documents/Code2025/BlazorApp/obj/",
+      "outputPath": "/Users/olu/Downloads/devops-git/BlazorApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/olu/.nuget/NuGet/NuGet.Config"
